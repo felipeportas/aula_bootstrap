@@ -1,6 +1,36 @@
 
+
 .navbar-expand-lg {
-    background-color:  rgb(238, 156, 156);
+    background-color:  rgb(202, 213, 248);
+}
+
+.quem-somos{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: blanchedalmond;
+    color: rgb(35, 35, 61);
+    font-size: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+    
+.img-quemsomos{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin-bottom: 15px;    
+}
+ 
+.quem-somos .text-cabecalho{
+    font-size: 35px;
+}
+
+.servicos{
+    padding-top: 10px;
+    padding-bottom: 20px;
+    background-color:aquamarine;
+    color:rgb(35, 35, 61);
+    font-size: 35px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .formulario{
@@ -16,10 +46,13 @@
 .btn-primary{
     margin-top: 10px;   
     margin-left: 10px;
+    margin-bottom: 20px;
 }
 
-.quem-somos{
-    padding-top: 10px;
-    padding-bottom: 10px;
-    background-color: blanchedalmond;
+.page-footer{
+    margin-top: 20px;
+    background-color:darkblue;
+    color: white;
+    font-size: 18px;
+
 }
