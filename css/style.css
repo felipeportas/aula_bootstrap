@@ -1,0 +1,25 @@
+
+.navbar-expand-lg {
+    background-color:  rgb(238, 156, 156);
+}
+
+.formulario{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.form-check{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.btn-primary{
+    margin-top: 10px;   
+    margin-left: 10px;
+}
+
+.quem-somos{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: blanchedalmond;
+}
